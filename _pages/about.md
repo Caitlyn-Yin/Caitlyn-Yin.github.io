@@ -11,6 +11,8 @@ Hi! I am a senior-year undergraduate student majoring in Statistics and Mathemat
 
 My research interests lie broadly in Theoretical Machine Learning, e.g., Reinforcement Learning Theory and Deep Learning Theory.
 
+In my free time, I enjoy playing Go (Weiqi) and swimming.
+
 Contact
 ------
 heqiyin2 (at) illinois (dot) edu
