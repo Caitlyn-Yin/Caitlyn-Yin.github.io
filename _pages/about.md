@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi! I am a senior-year undergraduate student majoring in Statistics and Mathematics, minoring in Computer Science at University of Illinois Urbana-Champaign.
 
-My research interests lie broadly in Theoretical Machine Learning, e.g., Reinforcement Learning Theory and Deep Learning Theory.
+My research interests lie broadly in Deep Learning Theory and Statistical inference, Bioinformatics analysis.
 
 I was professionally trained Go player. And in my free time, I enjoy playing Go (Weiqi), Chinese Zither (Guzheng) and the piano.
 
