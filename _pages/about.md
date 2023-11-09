@@ -11,7 +11,7 @@ Hi! I am a senior-year undergraduate student majoring in Statistics and Mathemat
 
 My research interests lie broadly in Theoretical Machine Learning, e.g., Reinforcement Learning Theory and Deep Learning Theory.
 
-I was professionally trained Go players. And in my free time, I enjoy playing Go (围棋), Guzheng (古筝) and the piano.
+I was professionally trained Go player. And in my free time, I enjoy playing Go (Weiqi), Chinese Zither (Guzheng) and the piano.
 
  <small>_而世之奇伟、瑰怪、非常之观，常在于险远，而人之所罕至焉，故非有志者不能至也。_
 
