@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Misc"
-#excerpt: "Misc"
+permalink: /Misc/
 author_profile: true
-redirect_from: 
-  - /Misc/
-  - /Misc.html
 ---
 I was once a professional Go player, having started learning it at four and continuing trainning until high school. 
 <img src="GO.png" alt="GO">
