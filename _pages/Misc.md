@@ -1,6 +1,0 @@
----
-layout: archive
-title: "Misc"
-permalink: /Misc/
-author_profile: true
----
