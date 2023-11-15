@@ -7,7 +7,9 @@ redirect_from:
   - /Misc/
   - /Misc.html
 ---
-I was once a professional Go player, having started learning it at the age of four and continuing until high school. Interestingly, back then, Go was considered a game that couldn't be conquered by machines. This belief was partly due to the immense complexity of Go, with the number of possible variations being around 
+I was once a professional Go player, having started learning it at four and continuing trainning until high school. 
+<img src="Go.png" alt="Go">
+Interestingly, back then, Go was considered a game that couldn't be conquered by machines. This belief was partly due to the immense complexity of Go, with the number of possible variations being around 
 10^768, which is  similar to 361!
 Until...
 <img src="Alpha_Go.png" alt="Alpha Go">
