@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Misce"
+title: "Misc"
 #excerpt: "Misc"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /Misc/
   - /Misc.html
