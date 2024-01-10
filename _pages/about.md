@@ -19,7 +19,7 @@ I was professionally trained Go player. And in my free time, I enjoy playing Go 
 Contact
 ------
 heqiyin2 (at) illinois (dot) edu
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=w09oiLkpKqp3d-U6UUo4eojfST1MtU6A2LGtfbe55Ls&cl=ffffff&w=a"></script>
+/* <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=w09oiLkpKqp3d-U6UUo4eojfST1MtU6A2LGtfbe55Ls&cl=ffffff&w=a"></script> */
 
 
 
