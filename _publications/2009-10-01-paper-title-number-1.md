@@ -12,7 +12,7 @@ Kaihong Zhang*, Caitlyn Heqi Yin*, Feng Liang, Jingbo Liu
 ---
 title: "Assessing heavy-duty vehicles (HDVs) on-road NOx emission in China from on-board diagnostics (OBD) remote report data"
 collection: publications
-permalink: /https://www.sciencedirect.com/science/article/pii/S0048969722043078
+permalink: https://www.sciencedirect.com/science/article/pii/S0048969722043078
 date: 2022-11-10
 venue: 'Science of The Total Environment'
 order: 2
