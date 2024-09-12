@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a senior-year undergraduate student majoring in Statistics at University of Illinois Urbana-Champaign.
+Hi! I am a first-year PhD student majoring in Statistics at University of Wisconsin-Madison.
 
-My research interests lie broadly in Deep Learning Theory and Statistical inference, Bioinformatics analysis.
+My research interests lie broadly in Deep Learning and Statistical learning.
 
 I was professionally trained Go player. And in my free time, I enjoy playing Go (Weiqi), Chinese Zither (Guzheng) and the piano.
 
