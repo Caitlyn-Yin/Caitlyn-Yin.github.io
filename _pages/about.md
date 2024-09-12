@@ -13,7 +13,6 @@ My research interests lie broadly in Deep Learning Theory and Statistical infere
 
 I was professionally trained Go player. And in my free time, I enjoy playing Go (Weiqi), Chinese Zither (Guzheng) and the piano.
 
- %<small>_而世之奇伟、瑰怪、非常之观，常在于险远，而人之所罕至焉，故非有志者不能至也。--《游褒禅山记》王安石_
 
 
 Contact
