@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a senior-year undergraduate student majoring in Statistics and Mathematics, minoring in Computer Science at University of Illinois Urbana-Champaign.
+Hi! I am a senior-year undergraduate student majoring in Statistics at University of Illinois Urbana-Champaign.
 
 My research interests lie broadly in Deep Learning Theory and Statistical inference, Bioinformatics analysis.
 
