@@ -6,9 +6,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Heqi Yin @ UIUC "
+title                    : "Caitlyn Heqi Yin @ UWMadison "
 title_separator          : "-"
-name                     : &name "Heqi Yin"
+name                     : &name "Caitlyn Heqi Yin"
 description              : &description "personal description"
 url                      : https://cathy-yin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,10 +79,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Heqi Yin (尹鹤淇)"
+  name             : "Caitlyn Heqi Yin"
   avatar           : "profile1.png"
-  bio              : "Hi there! I am an undergrad @ UIUC, double majoring in Statistics and Mathematics. "
-  location         : "Champaign, IL, USA"
+  bio              : "Hi there! I am a PhD student @ UW-Madison, majoring in Statistics. "
+  location         : "Madison, WI, USA"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -95,7 +95,7 @@ author:
   #flickr           :
   #facebook         :
   #foursquare       :
-  github           : "Cathy-Yin"
+  github           : "Caitlyn-Yin"
   #google_plus      :
   #keybase          :
   #instagram        :
