@@ -17,7 +17,7 @@ I was professionally trained Go player. And in my free time, I enjoy playing Go 
 
 Contact
 ------
-heqiyin2 (at) illinois (dot) edu
+hyin66 (at) wisc (dot) edu
 
 
 
