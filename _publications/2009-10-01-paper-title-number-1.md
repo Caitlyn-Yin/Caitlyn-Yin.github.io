@@ -5,7 +5,7 @@ permalink: https://openreview.net/forum?id=wTd7dogTsB
 date: 2024-05-01
 venue: 'ICML'
 order: 1
-
+---
 Kaihong Zhang*, Caitlyn Heqi Yin*, Feng Liang, Jingbo Liu
 [Download paper here](https://openreview.net/pdf?id=wTd7dogTsB)
 
